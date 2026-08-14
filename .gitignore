@@ -4,3 +4,6 @@ __pycache__/
 *.iml
 *.pyc
 .DS_Store
+similarity.pkl
+movies.pkl
+*.zip
